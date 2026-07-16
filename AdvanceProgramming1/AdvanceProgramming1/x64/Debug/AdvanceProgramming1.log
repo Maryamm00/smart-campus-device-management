@@ -1,0 +1,12 @@
+﻿  AirCon.cpp
+  Device.cpp
+  DeviceFactory.cpp
+  Door.cpp
+  main.cpp
+  managerclass.cpp
+  Projector.cpp
+  RoomLight.cpp
+  SecurityCam.cpp
+  Generating Code...
+  LINK : C:\Users\Marya\Downloads\AdvanceProgramming1\AdvanceProgramming1\x64\Debug\AdvanceProgramming1.exe not found or not built by the last incremental link; performing full link
+  AdvanceProgramming1.vcxproj -> C:\Users\Marya\Downloads\AdvanceProgramming1\AdvanceProgramming1\x64\Debug\AdvanceProgramming1.exe
